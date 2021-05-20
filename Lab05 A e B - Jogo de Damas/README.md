@@ -46,7 +46,7 @@ Estrutura de pastas:
 
 Para acionar o jogo, chame no console "$ java mc322.lab05b.AppDamas" passando ainda o caminho do arquivo CSV de entrada e o caminho do arquivo CSV de saída. 
 
-Versão java sem Herança e Polimorfismo src/mc322/lab05a e
-Versão java sem Herança e Polimorfismo src/mc322/lab05b onde estão os arquivos java da resolução da tarefa.
+## [Versão java sem Herança e Polimorfismo](src/lab05a)
+## [Versão java com Herança e Polimorfismo](src/lab05b)
 
 
