@@ -21,15 +21,26 @@ Estrutura de pastas:
 ## Arquivos Java do Jogo
 
 ### Intruções para jogar o jogo:
+Primeiro, insira um nome para o seu jogador. 
+Depois, seguindo os comandos abaixo, moviment-se na caverna. 
+●  w -> Herói movimenta para a sala acima;
+● s -> Herói movimenta para a sala abaixo;
+● d -> Herói movimenta para a sala a direita;
+● a -> Herói movimenta para a sala a esquerda;
+● k -> Herói equipa a flecha;
+● c -> Herói captura o ouro;
+● q -> O usuário sai do jogo.
 
-###Arquivos java[caminho]
+Seu objetivo é captura o ouro e voltar à posição inicial sem ser morto pelo Wumpus ou cair em um buraco. Lembre-se de que se você matar o Wumpus, ganhará mais pontos, mas capturar o ouro é a condição para vencer. 
+
+### [Arquivos java](src/lab06)
 
 
 ## Destaques de Arquitetura
 
 ### A Estrutura
 
-![A Estrutura](https://github.com/[gigennari]/[projetospoo]/blob/[branch]/image.jpg?raw=true)
+![A Estrutura](UML Diagram.jpg)
 
 ### `Movimentação Herói`
 
