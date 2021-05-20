@@ -33,14 +33,14 @@ Depois, seguindo os comandos abaixo, moviment-se na caverna.
 
 Seu objetivo é captura o ouro e voltar à posição inicial sem ser morto pelo Wumpus ou cair em um buraco. Lembre-se de que se você matar o Wumpus, ganhará mais pontos, mas capturar o ouro é a condição para vencer. 
 
-###[Arquivos java](src/lab06)
+### [Arquivos java](src/lab06)
 
 
 ## Destaques de Arquitetura
 
 ### A Estrutura
 
-![A Estrutura](Lab06 - O Mundo de Wumpus/UML Diagram.jpg)
+![A Estrutura](UML Diagram.jpg)
 
 ### `Movimentação Herói`
 
