@@ -40,7 +40,7 @@ Seu objetivo é captura o ouro e voltar à posição inicial sem ser morto pelo 
 
 ### A Estrutura
 
-![A Estrutura](UML Diagram.jpg)
+![](UMLDiagram.jpg)
 
 ### `Movimentação Herói`
 
